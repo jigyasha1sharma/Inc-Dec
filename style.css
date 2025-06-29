@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    text-align: center;
+    justify-content: space-between;
+}
+
+#button{
+    margin: 20px 15px;
+    width: 35px;
+    height: 35px;
+    border-radius: 30%;
+}
+
+#button1{
+    margin: 20px 15px;
+    width: 35px;
+    height: 35px;
+    border-radius: 30%;
+}
+
+#button2{
+    width: 80px;
+    height: 40px;
+    border-radius: 25%;
+    text-align: center;
+    align-items: center;
+    background-color: burlywood;
+}
